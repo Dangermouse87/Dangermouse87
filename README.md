@@ -12,3 +12,4 @@ I have numerous interests, but here are some of my favourite things to do:
 
 ## Where to find me!
 
+[(/instagram-new.png "My Instagram")](https://www.instagram.com/rajanladwa/)
