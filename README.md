@@ -2,6 +2,16 @@
 
 I am a Full Stack Web Developer and also a former graduate and now TA at [Le Wagon Japan](https://www.lewagon.com/tokyo):computer:!
 
+## My skills!
+
+Ruby, Ruby on Rails, Active Record
+HTML, CSS, SCSS
+Javascript
+Bootstrap
+SQL, PostgreSQL
+Heroku
+
+
 ## About me!
 
 I have numerous interests, but here are some of my favourite things to do:
