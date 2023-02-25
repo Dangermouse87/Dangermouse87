@@ -2,6 +2,8 @@
 
 I am a Full Stack Web Developer and also a former graduate and now TA at [Le Wagon Japan](https://www.lewagon.com/tokyo):computer:!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangermouse87&layout=compact&theme=tokyonight)](https://github.com/dangermouse87/github-readme-stats)
+
 ## My skills!
 
 Ruby, Ruby on Rails, Active Record
