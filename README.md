@@ -2,7 +2,7 @@
 
 I am a Full Stack Web Developer and also a former graduate and now TA at [Le Wagon Japan](https://www.lewagon.com/tokyo):computer:!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangermouse87&layout=compact&theme=midnightpurple)](https://github.com/dangermouse87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangermouse87&layout=compact&theme=midnight-purple)](https://github.com/dangermouse87/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 
