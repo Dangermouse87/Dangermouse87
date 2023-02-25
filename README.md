@@ -63,15 +63,14 @@ I am a Full Stack Web Developer and also a former graduate and now TA at [Le Wag
   <a href="https://lewagon.com/tokyo" target="_blank" rel="noreferrer"> 
     <img src="lewagon.png" alt="git" width="40" height="40"/>
   </a>
-  Le Wagon Tokyo - Teaching Assistant
 </p>
+<p> Le Wagon Tokyo - Teaching Assistant </p>
 <p align="left">
   <a href="https://www.mamoru.earth/" target="_blank" rel="noreferrer"> 
     <img src="favicon.png" alt="heroku" width="40" height="40"/>
   </a>
-  Mamoru - Junior Software Developer
 </p>
-
+<p> Mamoru - Junior Software Developer </p>
 
 ## About me!
 
