@@ -27,3 +27,7 @@ I have numerous interests, but here are some of my favourite things to do:
 [![My Instagram](/instagram-new.png "My Instagram")](https://www.instagram.com/rajanladwa/)
 [![My LinkedIn](/linked.png "My LinkedIn")](https://www.linkedin.com/in/rajanladwa/)
 [![My Website](/domain.png "To be added at a later date")](https://youtu.be/dQw4w9WgXcQ)
+
+<div id="view-counter">
+  <img src="https://komarev.com/ghpvc/?username=dangermouse87&style=flat-square&color=blue" alt=""/>
+</div>
