@@ -57,6 +57,14 @@ I am a Full Stack Web Developer and also a former graduate and now TA at [Le Wag
   </a>
 </p>
 
+### Where I work :
+
+<p align=left>
+  
+</p>
+
+
+
 ## About me!
 
 I have numerous interests, but here are some of my favourite things to do:
