@@ -1,6 +1,6 @@
 ### Hi there! :wave: My name is Raj!
 
-I am a Full Stack Web Developer and also a former graduate and now TA at [Le Wagon Japan](https://www.lewagon.com/tokyo):computer:!
+I am a Full Stack Web Developer and also a graduate of [Le Wagon Japan](https://www.lewagon.com/tokyo):computer:!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangermouse87&layout=compact&theme=midnight-purple)](https://github.com/dangermouse87/github-readme-stats)
 
@@ -61,16 +61,14 @@ I am a Full Stack Web Developer and also a former graduate and now TA at [Le Wag
 
 <p align="left">
   <a href="https://lewagon.com/tokyo" target="_blank" rel="noreferrer"> 
-    <img src="lewagon.png" alt="git" width="40" height="40"/>
+    <img src="lewagon.png" alt="Teaching Assistant" width="40" height="40"/>
   </a>
 </p>
-<p> Le Wagon Tokyo - Teaching Assistant </p>
 <p align="left">
   <a href="https://www.mamoru.earth/" target="_blank" rel="noreferrer"> 
-    <img src="favicon.png" alt="heroku" width="40" height="40"/>
+    <img src="favicon.png" alt="Junior Software Developer" width="40" height="40"/>
   </a>
 </p>
-<p> Mamoru - Junior Software Developer </p>
 
 ## About me!
 
@@ -82,9 +80,18 @@ I have numerous interests, but here are some of my favourite things to do:
 
 ## Where to find me!
 
-[![My Instagram](/instagram-new.png "My Instagram")](https://www.instagram.com/rajanladwa/)
-[![My LinkedIn](/linked.png "My LinkedIn")](https://www.linkedin.com/in/rajanladwa/)
-[![My Website](/domain.png "To be added at a later date")](https://youtu.be/dQw4w9WgXcQ)
+<p align="left">
+  <a href="https://www.rajan-ladwa.dev" target="_blank" rel="noreferrer"> 
+    <img src="" alt="Rajan Ladwa" width="40" height="40"/>
+  </a>  
+  <a href="https://www.linkedin.com/in/rajanladwa/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/rajanladwa" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
+  </a>  
+</p>
+
 
 <div id="view-counter">
   <img src="https://komarev.com/ghpvc/?username=dangermouse87&style=flat-square&color=blue" alt=""/>
