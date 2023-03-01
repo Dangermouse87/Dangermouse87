@@ -82,7 +82,7 @@ I have numerous interests, but here are some of my favourite things to do:
 
 <p align="left">
   <a href="https://www.rajan-ladwa.dev" target="_blank" rel="noreferrer"> 
-    <img src="" alt="Rajan Ladwa" width="40" height="40"/>
+    <img src="world-wide-web.png" alt="Rajan Ladwa" width="40" height="40"/>
   </a>  
   <a href="https://www.linkedin.com/in/rajanladwa/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40" height="40"/>
