@@ -4,6 +4,17 @@ I am a Full Stack Web Developer and also a graduate of [Le Wagon Japan](https://
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangermouse87&layout=compact&theme=midnight-purple)](https://github.com/dangermouse87/github-readme-stats)
 
+### Where I work :
+
+<p align="left">
+  <a href="https://lewagon.com/tokyo" target="_blank" rel="noreferrer"> 
+    <img src="lewagon.png" alt="Teaching Assistant" width="40" height="40"/>
+  </a>
+  <a href="https://www.mamoru.earth/" target="_blank" rel="noreferrer"> 
+    <img src="favicon.png" alt="Junior Software Developer" width="40" height="40"/>
+  </a>
+</p>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="left">
@@ -57,20 +68,18 @@ I am a Full Stack Web Developer and also a graduate of [Le Wagon Japan](https://
   </a>
 </p>
 
-### Where I work :
+### What I am learning:
 
 <p align="left">
-  <a href="https://lewagon.com/tokyo" target="_blank" rel="noreferrer"> 
-    <img src="lewagon.png" alt="Teaching Assistant" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.mamoru.earth/" target="_blank" rel="noreferrer"> 
-    <img src="favicon.png" alt="Junior Software Developer" width="40" height="40"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+  </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/>
   </a>
 </p>
 
-## About me!
+### About me!
 
 I have numerous interests, but here are some of my favourite things to do:
 
