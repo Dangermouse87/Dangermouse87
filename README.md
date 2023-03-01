@@ -74,15 +74,13 @@ I am a Full Stack Web Developer and also a graduate of [Le Wagon Japan](https://
 
 I have numerous interests, but here are some of my favourite things to do:
 
-- :soccer:Football:soccer: - 11 a side player in the Tokyo Metropolitan League, Futsal Player, and co organiser for [Futsal Tokyo](https://www.meetup.com/futsal-tokyo/).
-- :fork_and_knife:Cooking:fork_and_knife: - Eating too......I try my hand at cooking different cuisines and I also bake :cake: too.
-- :video_game:Games:video_game: - I love playing video games to relax, switching between the PS5 and Switch.
+- :soccer:Football:soccer:, :fork_and_knife:Cooking:fork_and_knife: and :video_game:Games:video_game:
 
 ## Where to find me!
 
 <p align="left">
   <a href="https://www.rajan-ladwa.dev" target="_blank" rel="noreferrer"> 
-    <img src="world-wide-web.png" alt="Rajan Ladwa" width="40" height="40"/>
+    <img src="www.png" alt="Rajan Ladwa" width="40" height="40"/>
   </a>  
   <a href="https://www.linkedin.com/in/rajanladwa/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="40" height="40"/>
@@ -91,7 +89,6 @@ I have numerous interests, but here are some of my favourite things to do:
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
   </a>  
 </p>
-
 
 <div id="view-counter">
   <img src="https://komarev.com/ghpvc/?username=dangermouse87&style=flat-square&color=blue" alt=""/>
