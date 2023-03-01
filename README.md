@@ -81,9 +81,7 @@ I am a Full Stack Web Developer and also a graduate of [Le Wagon Japan](https://
 
 ### About me!
 
-I have numerous interests, but here are some of my favourite things to do:
-
-- :soccer:Football:soccer:, :fork_and_knife:Cooking:fork_and_knife: and :video_game:Games:video_game:
+:soccer:Football:soccer:, :fork_and_knife:Cooking:fork_and_knife: and :video_game:Games:video_game:
 
 ## Where to find me!
 
