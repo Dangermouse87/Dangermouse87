@@ -10,8 +10,8 @@ I am a Full Stack Web Developer and also a graduate of [Le Wagon Japan](https://
   <a href="https://lewagon.com/tokyo" target="_blank" rel="noreferrer"> 
     <img src="lewagon.png" alt="Teaching Assistant" width="40" height="40"/>
   </a>
-  <a href="https://www.mamoru.earth/" target="_blank" rel="noreferrer"> 
-    <img src="favicon.png" alt="Junior Software Developer" width="40" height="40"/>
+  <a href="https://sokk.jp/" target="_blank" rel="noreferrer"> 
+    <img src="https://sokk.jp/images/s01_logomark.png" alt="Full Stack Developer" width="40" height="40"/>
   </a>
 </p>
 
