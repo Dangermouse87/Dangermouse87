@@ -1,6 +1,6 @@
 ### Hi there! :wave: My name is Raj!
 
-I am a Full Stack Web Developer and also a graduate of [Le Wagon Japan](https://www.lewagon.com/tokyo):computer:!
+I am a Full Stack Web Developer and also a Lecturer for [Le Wagon Japan](https://www.lewagon.com/tokyo):computer:!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangermouse87&layout=compact&theme=midnight-purple)](https://github.com/dangermouse87/github-readme-stats)
 
@@ -29,6 +29,12 @@ I am a Full Stack Web Developer and also a graduate of [Le Wagon Japan](https://
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a> 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
 </p>
 
