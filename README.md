@@ -86,11 +86,20 @@ I am a Full Stack Web Developer and also a Lecturer for [Le Wagon Japan](https:/
 ### What I am learning:
 
 <p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
 </p>
 
 ### About me!
 
-:soccer:Football:soccer:, :fork_and_knife:Cooking:fork_and_knife: and :video_game:Games:video_game:
+:soccer:Football:soccer:, 🥁Taiko🥁 ,:fork_and_knife:Cooking:fork_and_knife: and :video_game:Games:video_game:
 
 ## Where to find me!
 
