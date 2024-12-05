@@ -8,7 +8,7 @@ I am a Full Stack Web Developer and also a Lecturer for [Le Wagon Japan](https:/
 
 <p align="left">
   <a href="https://lewagon.com/tokyo" target="_blank" rel="noreferrer">
-    <img src="lewagon.png" alt="Teaching Assistant" width="40" height="40"/>
+    <img src="lewagon.png" alt="Lecturer / TA" width="40" height="40"/>
   </a>
   <a href="https://sokk.jp/" target="_blank" rel="noreferrer">
     <img src="https://sokk.jp/images/s01_logomark.png" alt="Full Stack Developer" width="40" height="40"/>
