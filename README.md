@@ -7,12 +7,8 @@ I am a Full Stack Web Developer and also a Lecturer for [Le Wagon Japan](https:/
 ### Where I work :
 
 <p align="left">
-  <a href="https://lewagon.com/tokyo" target="_blank" rel="noreferrer">
-    <img src="lewagon.png" alt="Lecturer / TA" width="40" height="40"/>
-  </a>
-  <a href="https://sokk.jp/" target="_blank" rel="noreferrer">
-    <img src="https://sokk.jp/images/s01_logomark.png" alt="Full Stack Developer" width="40" height="40"/>
-  </a>
+  <a href="https://lewagon.com/tokyo" target="_blank" rel="noreferrer"><img src="lewagon.png" alt="Lecturer / TA" width="40" height="40"/></a>
+  <a href="https://sokk.jp/" target="_blank" rel="noreferrer"><img src="https://sokk.jp/images/s01_logomark.png" alt="Full Stack Developer" width="40" height="40"/></a>
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
